@@ -5,3 +5,20 @@
 }
 
 // TODO
+:root {
+  --white:#FFFFFF;
+  --gray-600:#F8F8F8;
+  --gray-700:#D7D7D7;
+  --gray-800:#BBBBBB;
+  --gray-900:#1A1D23;
+  --lilac:#FF57B2;
+}
+
+body{
+  background: var(--gray-900);
+}
+
+body, input, textarea, select, button {
+  font:400 1rem "Inter", sans-serif;
+
+}
