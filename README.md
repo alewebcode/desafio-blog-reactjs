@@ -1,3 +1,7 @@
+<div align="center">
+  <img src=".github/lista_posts.png">
+</div>
+
 <h3 align="center">Desafio Ignite Reactjs: Criando um projeto do zero</h3>
 
 ## :rocket: Sobre o desafio
