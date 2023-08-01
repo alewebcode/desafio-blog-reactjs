@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/lista_posts.png">
+  <img src="./lista_posts.png">
 </div>
 
 <h3 align="center">Desafio Ignite Reactjs: Criando um projeto do zero</h3>
